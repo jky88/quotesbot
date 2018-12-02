@@ -4,7 +4,7 @@ import scrapy
 class LianjiaSpider(scrapy.Spider):
     name = "toscrape-lianjia"
     start_urls = [
-        'http://bj.lianjia.com/chengjiao/pg2/',
+        'http://bj.lianjia.com/chengjiao/',
     ]
 
     def parse(self, response):
