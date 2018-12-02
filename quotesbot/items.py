@@ -9,9 +9,10 @@ import scrapy
 
 class QuotesbotItem(scrapy.Item):
     # define the fields for your item here like:
-    id = scrapy.Field()
-    title = scrapy.Field()
-    price = scrapy.Field()
-    addr = scrapy.Field()
-    link = scrapy.Field()
-    image = scrapy.Field()
+    #id = scrapy.Field()
+    #title = scrapy.Field()
+    #price = scrapy.Field()
+    #addr = scrapy.Field()
+    #link = scrapy.Field()
+    #image = scrapy.Field()
+    pass
